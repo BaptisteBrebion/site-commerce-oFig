@@ -1,0 +1,26 @@
+{
+  "name": "site-commerce-oFig",
+  "version": "1.0.0",
+  "description": "Site commerçant de vente de figurines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaptisteBrebion/site-commerce-oFig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaptisteBrebion/site-commerce-oFig/issues"
+  },
+  "homepage": "https://github.com/BaptisteBrebion/site-commerce-oFig#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "sqlite3": "^4.1.1"
+  }
+}
