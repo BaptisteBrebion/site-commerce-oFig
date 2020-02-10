@@ -1,3 +1,3 @@
 # O'Fig
 
-Site commerçant d'achat de figurines
+Site commerçant de vente de figurines
